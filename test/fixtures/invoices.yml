@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  price: 
+  description: MyString
+  string: MyString
+  agent: 
+  employer: 
+
+two:
+  price: 
+  description: MyString
+  string: MyString
+  agent: 
+  employer: 
